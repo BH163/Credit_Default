@@ -1,1 +1,2 @@
 # Credit_Default
+This repository contains all code and datasets used in the analysis and model development for credit default classification. In this project a dataset was obtained with information on billing, payment, and demographics for Taiwanese individuals. This dataset was cleaned, analyzed, and then visualized. A k-Nearest Neighbors classifier was then developed and optimized in order to predict if an individual would default on their payment.
